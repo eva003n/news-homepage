@@ -265,6 +265,7 @@ hr {
   background: #00001a;
   inset: 0 0 0 0;
   position: fixed;
+  min-height:100vh;
   visibility: hidden;
   opacity: 0.7;
 }
