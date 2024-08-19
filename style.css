@@ -97,7 +97,7 @@ hr {
   background: #fffdfa;
   display: flex;
   flex-direction: column;
-  min-height: 100svh;
+  min-height: 100vh;
   padding: 1.8em 1.3em;
   position: fixed;
   right: -100%;
