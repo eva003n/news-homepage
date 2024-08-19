@@ -186,7 +186,7 @@ hr {
   width: min(100% - 40px, 62.5rem);
 }
 .news-container section:first-child .news-img {
-  background-image: url(/assets/images/image-web-3-mobile.jpg);
+  background-image: url(assets/images/image-web-3-mobile.jpg);
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -239,7 +239,7 @@ hr {
     grid-row: 1;
   }
   .news-container section:first-child .news-img {
-    background-image: url(/assets/images/image-web-3-desktop.jpg);
+    background-image: url(assets/images/image-web-3-desktop.jpg);
   }
   .news-container section:first-child .web3-news {
     align-items: center;
