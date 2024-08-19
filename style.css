@@ -70,6 +70,7 @@ hr {
 .cta-button {
   background: #f15e50;
   border-radius: 0.1rem;
+  border: none;
   font-weight: 700;
   margin-bottom: 2.7rem;
   padding: 0.7em 2em;
